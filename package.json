@@ -1,7 +1,7 @@
 {
-  "name": "RunningBoy",
+  "name": "Running Game",
   "version": "0.1.0",
-  "description": "A world of a running boy",
+  "description": "A simple running game",
   "main": "./app",
   "scripts": {
     "start": "node ./app",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Deathsteps/RunningBoy.git"
+    "url": ""
   },
   "keywords": [
     "Fun"
   ],
-  "author": "Deathsteps",
+  "author": "bilefresh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Deathsteps/RunningBoy/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Deathsteps/RunningBoy",
+  "homepage": "",
   "dependencies": {
     "express": "^4.13.3",
     "react": "^0.14.3",
